@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\JeeL\Programming\Github\minor-projects\CRUS using generic List\CRUD using generic List\bin\Debug\net10.0\CRUD using generic List.exe
+C:\Users\Admin\Desktop\JeeL\Programming\Github\minor-projects\CRUS using generic List\CRUD using generic List\bin\Debug\net10.0\CRUD using generic List.deps.json
+C:\Users\Admin\Desktop\JeeL\Programming\Github\minor-projects\CRUS using generic List\CRUD using generic List\bin\Debug\net10.0\CRUD using generic List.runtimeconfig.json
+C:\Users\Admin\Desktop\JeeL\Programming\Github\minor-projects\CRUS using generic List\CRUD using generic List\bin\Debug\net10.0\CRUD using generic List.dll
+C:\Users\Admin\Desktop\JeeL\Programming\Github\minor-projects\CRUS using generic List\CRUD using generic List\bin\Debug\net10.0\CRUD using generic List.pdb
+C:\Users\Admin\Desktop\JeeL\Programming\Github\minor-projects\CRUS using generic List\CRUD using generic List\obj\Debug\net10.0\CRUD using generic List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\JeeL\Programming\Github\minor-projects\CRUS using generic List\CRUD using generic List\obj\Debug\net10.0\CRUD using generic List.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\JeeL\Programming\Github\minor-projects\CRUS using generic List\CRUD using generic List\obj\Debug\net10.0\CRUD using generic List.AssemblyInfo.cs
+C:\Users\Admin\Desktop\JeeL\Programming\Github\minor-projects\CRUS using generic List\CRUD using generic List\obj\Debug\net10.0\CRUD using generic List.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\JeeL\Programming\Github\minor-projects\CRUS using generic List\CRUD using generic List\obj\Debug\net10.0\CRUD using generic List.sourcelink.json
+C:\Users\Admin\Desktop\JeeL\Programming\Github\minor-projects\CRUS using generic List\CRUD using generic List\obj\Debug\net10.0\CRUD using generic List.dll
+C:\Users\Admin\Desktop\JeeL\Programming\Github\minor-projects\CRUS using generic List\CRUD using generic List\obj\Debug\net10.0\refint\CRUD using generic List.dll
+C:\Users\Admin\Desktop\JeeL\Programming\Github\minor-projects\CRUS using generic List\CRUD using generic List\obj\Debug\net10.0\CRUD using generic List.pdb
+C:\Users\Admin\Desktop\JeeL\Programming\Github\minor-projects\CRUS using generic List\CRUD using generic List\obj\Debug\net10.0\CRUD using generic List.genruntimeconfig.cache
+C:\Users\Admin\Desktop\JeeL\Programming\Github\minor-projects\CRUS using generic List\CRUD using generic List\obj\Debug\net10.0\ref\CRUD using generic List.dll
+C:\Users\Admin\Desktop\JeeL\Programming\Github\minor-projects\CRUS using generic List\CRUD using generic List\obj\Debug\net10.0\CRUD usi.9076CD1B.Up2Date

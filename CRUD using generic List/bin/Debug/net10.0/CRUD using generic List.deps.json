@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CRUD using generic List/1.0.0": {
+        "runtime": {
+          "CRUD using generic List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CRUD using generic List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

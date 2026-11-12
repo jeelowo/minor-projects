@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\JeeL\\Programming\\Github\\minor-projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\JeeL\\Programming\\Github\\minor-projects\\CRUS using generic List\\LibraryManager\\LibraryManager.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUS using generic List\\LibraryManager\\LibraryManager.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\JeeL\\Programming\\Github\\minor-projects\\CRUS using generic List\\LibraryManager\\Program.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUS using generic List\\LibraryManager\\Program.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\JeeL\\Programming\\Github\\minor-projects\\NewFolder\\Program.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewFolder\\Program.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryManager.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\JeeL\\Programming\\Github\\minor-projects\\CRUS using generic List\\LibraryManager\\LibraryManager.csproj",
+              "RelativeDocumentMoniker": "CRUS using generic List\\LibraryManager\\LibraryManager.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\JeeL\\Programming\\Github\\minor-projects\\CRUS using generic List\\LibraryManager\\LibraryManager.csproj",
+              "RelativeToolTip": "CRUS using generic List\\LibraryManager\\LibraryManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-12T07:31:48.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\JeeL\\Programming\\Github\\minor-projects\\CRUS using generic List\\LibraryManager\\Program.cs",
+              "RelativeDocumentMoniker": "CRUS using generic List\\LibraryManager\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\JeeL\\Programming\\Github\\minor-projects\\CRUS using generic List\\LibraryManager\\Program.cs",
+              "RelativeToolTip": "CRUS using generic List\\LibraryManager\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T07:27:17.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\JeeL\\Programming\\Github\\minor-projects\\NewFolder\\Program.cs",
+              "RelativeDocumentMoniker": "NewFolder\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\JeeL\\Programming\\Github\\minor-projects\\NewFolder\\Program.cs",
+              "RelativeToolTip": "NewFolder\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowKEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T07:23:34.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
